@@ -8,8 +8,8 @@
 
 Work on this homework in groups.
 * Use GitHub to collaborate with your team members.
-  * Create *ONE* repository in github (in anyone's account) 
-  * Invite all other team mates as collaborator 
+  * Create *ONE* repository in github (in anyone's account)
+  * Invite all other team mates as collaborator
     [See how to add a collaborator](https://help.github.com/articles/how-do-i-add-a-collaborator)
 
 **Prompt:**
